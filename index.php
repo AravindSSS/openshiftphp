@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>Aravind Sankar</h1>
-		<p><b>Openshift Batch Verizon Final version 1</b></p>
+		<p><b>Openshift Batch Verizon Final version 2</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
